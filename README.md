@@ -1,7 +1,10 @@
 <br>
 
 <h1 align="center">Arres</h1>
-<p align="center">Full-Stack Developer</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&pause=1000&color=A78BFA&center=true&vCenter=true&width=400&lines=Full-Stack+Developer;JavaScript+%2B+PHP+%2B+Lua;WhatsApp+%26+Discord+Bot+Maker" alt="typing">
+</p>
 
 <p align="center">
   <a href="mailto:xzyarres@gmail.com">xzyarres@gmail.com</a> &nbsp;·&nbsp;
@@ -15,6 +18,14 @@
 </p>
 
 <p align="center"><sub>my contribution history, rendered as a city</sub></p>
+
+<br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kleinmoretx/kleinmoretx/output/github-contribution-grid-snake.svg" width="85%">
+</p>
+
+<p align="center"><sub>and here it is again, getting eaten</sub></p>
 
 <br><br>
 
