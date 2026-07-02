@@ -60,14 +60,14 @@ Contact   : xzyarres@gmail.com
 
 **🧩 Top Languages**
 <br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleinmoretx&layout=compact&hide_border=true&theme=radical" width="100%">
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=kleinmoretx&layout=compact&hide_border=true&theme=radical" width="100%">
 
 </td>
 <td width="33%" align="center" valign="top">
 
 **📊 Overview**
 <br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=kleinmoretx&show_icons=true&hide_title=true&hide_border=true&theme=radical&count_private=true" width="100%">
+<img src="https://github-stats-extended.vercel.app/api?username=kleinmoretx&show_icons=true&hide_title=true&hide_border=true&theme=radical&count_private=true" width="100%">
 
 </td>
 </tr>
