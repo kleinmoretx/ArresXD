@@ -50,7 +50,7 @@
 <br><br>
 
 <p align="center">
-  <sub>currently building <a href="https://github.com/waiting">Your Project</a></sub>
+  <sub>currently building <a href="https://github.com/ArresXD">Project</a></sub>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5865F2,100:1e1e2f&height=100&section=footer&animation=fadeIn" width="100%">
