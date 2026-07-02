@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2f,100:5865F2&height=200&section=header&text=Hey,%20I'm%20Arres&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Turning%20ideas%20into%20code%20-%20apps,%20servers,%20and%20bots.&descAlignY=55&descSize=18" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2f,100:5865F2&height=200&section=header&text=Hey,%20I'm%20Arres&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Turning%20ideas%20into%20code%20-%20apps,%20servers,%20and%20bots.&descAlignY=52&descSize=18" width="100%">
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5865F2&center=true&vCenter=true&width=500&lines=JavaScript+%2B+Node.js+Developer;PHP+%26+MySQL+Backend;Lua+Scripting;WhatsApp+%26+Discord+Bot+Maker" alt="Typing SVG" /></a>
+
+<br><br>
 
 <a href="mailto:xzyarres@gmail.com"><img src="https://img.shields.io/badge/Email-xzyarres%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://github.com/kleinmoretx"><img src="https://img.shields.io/badge/GitHub-kleinmoretx-181717?style=for-the-badge&logo=github&logoColor=white"></a>
@@ -40,15 +44,29 @@ Building:     Your Project (github.com/waiting)
 
 <br>
 
+## 🏆 Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=kleinmoretx&theme=radical&no-frame=true&row=1&column=6&margin-w=8">
+</div>
+
+<br>
+
 ## 📈 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kleinmoretx&show_icons=true&hide_title=true&hide_border=true&theme=tokyonight&count_private=true" width="49%">
-<img src="https://streak-stats.demolab.com/?user=kleinmoretx&theme=tokyonight&hide_border=true" width="49%">
+<img src="https://github-readme-stats.vercel.app/api?username=kleinmoretx&show_icons=true&hide_title=true&hide_border=true&theme=radical&count_private=true" width="49%">
+<img src="https://streak-stats.demolab.com/?user=kleinmoretx&theme=radical&hide_border=true" width="49%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleinmoretx&layout=compact&hide_border=true&theme=tokyonight" width="40%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleinmoretx&layout=compact&hide_border=true&theme=radical" width="40%">
 
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kleinmoretx&theme=radical&hide_border=true&area=true" width="90%">
 </div>
 
 <br>
