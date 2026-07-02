@@ -22,7 +22,7 @@
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kleinmoretx/kleinmoretx/output/github-contribution-grid-snake.svg" width="85%">
+  <img src="https://raw.githubusercontent.com/kleinmoretx/ArresXD/output/github-contribution-grid-snake.svg" width="85%">
 </p>
 
 <p align="center"><sub>and here it is again, getting eaten</sub></p>
