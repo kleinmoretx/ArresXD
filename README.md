@@ -4,22 +4,19 @@
 
 <br>
 
-```
-┌──────────────────────────────────────────────────────────┐
-│  arres@github ~ %                                         │
-│                                                            │
-│  Name      : Arres                                        │
-│  Role      : Developer — Apps, Servers & Bots              │
-│  Stack     : JavaScript · PHP · Lua · MySQL                │
-│  Building  : Your Project (github.com/waiting)              │
-│  Status    : Open to collabs & freelance                   │
-│  Contact   : xzyarres@gmail.com                            │
-│                                                            │
-└──────────────────────────────────────────────────────────┘
+```bash
+arres@github ~ %
+
+Name      : Arres
+Role      : Developer - Apps, Servers & Bots
+Stack     : JavaScript · PHP · Lua · MySQL
+Building  : Your Project (github.com/waiting)
+Status    : Open to collabs & freelance
+Contact   : xzyarres@gmail.com
 ```
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=console.log(%22Hello+World%22);;building+cool+stuff...;always+shipping." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Hello%2C+World!;Building+cool+stuff...;Always+shipping." alt="Typing SVG" />
 </div>
 
 <br>
@@ -56,21 +53,21 @@
 
 **📦 Contributions**
 <br><br>
-<img src="https://streak-stats.demolab.com/?user=kleinmoretx&theme=radical&hide_border=true&stroke=0&background=00000000" width="100%">
+<img src="https://streak-stats.demolab.com/?user=kleinmoretx&theme=radical&hide_border=true" width="100%">
 
 </td>
 <td width="33%" align="center" valign="top">
 
 **🧩 Top Languages**
 <br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleinmoretx&layout=compact&hide_border=true&theme=radical&bg_color=00000000" width="100%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleinmoretx&layout=compact&hide_border=true&theme=radical" width="100%">
 
 </td>
 <td width="33%" align="center" valign="top">
 
 **📊 Overview**
 <br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=kleinmoretx&show_icons=true&hide_title=true&hide_border=true&theme=radical&bg_color=00000000&count_private=true" width="100%">
+<img src="https://github-readme-stats.vercel.app/api?username=kleinmoretx&show_icons=true&hide_title=true&hide_border=true&theme=radical&count_private=true" width="100%">
 
 </td>
 </tr>
@@ -90,7 +87,7 @@
 <summary><b>📈 Contribution Graph (click to expand)</b></summary>
 <br>
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kleinmoretx&theme=react-dark&hide_border=true&bg_color=00000000&area=true" width="100%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kleinmoretx&theme=react-dark&hide_border=true&area=true" width="100%">
 </div>
 </details>
 
