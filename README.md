@@ -1,9 +1,15 @@
 <br>
 
-<h1 align="center">Arres</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2f,100:5865F2&height=100&section=header&animation=fadeIn" width="100%">
+
+<h1 align="center">Arres 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&pause=1000&color=A78BFA&center=true&vCenter=true&width=400&lines=Full-Stack+Developer;JavaScript+%2B+PHP+%2B+Lua;WhatsApp+%26+Discord+Bot+Maker" alt="typing">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kleinmoretx/ArresXD/main/pulse.svg" width="10" valign="middle"> <sub>open to collabs &amp; freelance</sub>
 </p>
 
 <p align="center">
@@ -22,7 +28,9 @@
 <br>
 
 <p align="center">
+  <p align="center">
   <img src="https://raw.githubusercontent.com/kleinmoretx/ArresXD/output/github-contribution-grid-snake.svg" width="85%">
+</p>
 </p>
 
 <p align="center"><sub>and here it is again, getting eaten</sub></p>
@@ -42,5 +50,7 @@
 <br><br>
 
 <p align="center">
-  <sub>currently building <a href="https://github.com/waiting">Your Project</a> · open to collabs &amp; freelance</sub>
+  <sub>currently building <a href="https://github.com/waiting">Your Project</a></sub>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5865F2,100:1e1e2f&height=100&section=footer&animation=fadeIn" width="100%">
